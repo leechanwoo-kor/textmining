@@ -2,7 +2,7 @@
 
 ## 메타버스 통계 가시화
 
-## Bigkinds
+## Bigkinds / 메타버스, 증강현실, 라이프로깅, 거울세계, 가상세계
 
 ### 메타버스 기사 건수
 ![image](https://user-images.githubusercontent.com/55765292/144743478-3ff1c504-0686-4de7-8f65-e0b0b49928df.png)
